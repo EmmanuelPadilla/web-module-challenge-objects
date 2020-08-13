@@ -26,7 +26,7 @@ Your method should accept:
 
 (1) A string (teacher, student, or public)
 
-and should return a number. 
+and should return a nmber. 
 
 For example, burger.discount("teacher") would return 13.5 and burger.discount("public") would return 16.2*/
 
